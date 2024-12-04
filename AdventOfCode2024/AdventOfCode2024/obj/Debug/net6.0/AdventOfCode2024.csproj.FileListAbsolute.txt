@@ -1,0 +1,14 @@
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.AssemblyInfoInputs.cache
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.AssemblyInfo.cs
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\bin\Debug\net6.0\AdventOfCode2024.exe
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\bin\Debug\net6.0\AdventOfCode2024.deps.json
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\bin\Debug\net6.0\AdventOfCode2024.runtimeconfig.json
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\bin\Debug\net6.0\AdventOfCode2024.dll
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\bin\Debug\net6.0\AdventOfCode2024.pdb
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.dll
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\refint\AdventOfCode2024.dll
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.pdb
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\AdventOfCode2024.genruntimeconfig.cache
+C:\Users\Antonio\Documents\GitHub\advent-of-code-2024-antonio\AdventOfCode2024\AdventOfCode2024\obj\Debug\net6.0\ref\AdventOfCode2024.dll
